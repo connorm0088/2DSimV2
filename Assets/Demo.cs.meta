@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 65c72b2c71ae2de47b75416ac18e5d9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lengthMean: {instanceID: 0}
+  - lengthStd: {instanceID: 0}
+  - numInput: {instanceID: 0}
+  - condInput: {instanceID: 0}
+  - widthMean: {instanceID: 0}
+  - widthStd: {instanceID: 0}
+  - button: {instanceID: 0}
+  - whisker: {fileID: 5453017709303811062, guid: 3d5f9d3c5ddec8d4881d7dd6857434f4, type: 3}
+  - conductor: {fileID: 6236721680864916091, guid: 9be04273b2ad0a14eacce007ebe17920, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
